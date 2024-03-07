@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Khaled Saadouni and I'm a software engineer from Tunisia, attending INSAT</h2>
+<h2 align="left">💻 A passionate software engineer from Tunisia, attending INSAT</h2>
 
 ###
 
